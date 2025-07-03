@@ -1,3 +1,0 @@
-function love() {
-    return "love"
-}
